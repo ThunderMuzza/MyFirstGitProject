@@ -1,2 +1,2 @@
 # MyFirstGitProject
-My SandBox project 
+My SandBox project . This is updated to add new features 
